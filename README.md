@@ -20,6 +20,15 @@ The platform includes two NLP engines:
 - **Rule-based** — fast keyword-matching sentiment, topic, and entity analysis (works offline)
 - **Gemini AI** — Google Gemini 2.0 Flash for deeper semantic understanding with automatic fallback
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Home page](public/images/screenshot-home.png) | ![Dashboard](public/images/screenshot-dashboard.png) |
+| **Live NLP Analysis** — enter text, get real-time sentiment, topic, summary, and entities | **MLOps Dashboard** — key metrics, sentiment distribution, topic charts, and activity feed |
+| ![Model Registry](public/images/screenshot-models.png) | ![MLOps Pipeline](public/images/screenshot-pipeline.png) |
+| **Model Registry** — manage ML models with versioning and performance tracking | **Pipeline View** — end-to-end MLOps workflow from ingestion to deployment |
+
 ## Tech Stack
 
 | Layer | Technology |
